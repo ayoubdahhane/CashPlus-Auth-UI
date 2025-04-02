@@ -41,8 +41,8 @@ For commercial use or purchase inquiries, please contact me.
 ## 🔹 Want to Buy the Full Version?
 This project is available for **purchase** if Cash Plus is interested.
 
-📧 Contact me: [your email]  
-🔗 GitHub Profile: [your GitHub link]
+📧 Contact me: [business.dahhane@gmail.com]  
+🔗 GitHub Profile: [https://github.com/ayoubdahhane]
 
 ---
 
