@@ -18,7 +18,7 @@ Built using **HTML, CSS, and JavaScript**, this front-end project is designed fo
 ---
 
 ## Live Demo
-Check out the live demo here: [Mercedes-Benz MA Replica](https://ayoubdahhane.github.io/Mercedes-Benz-ma/)
+Check out the live demo [here](https://ayoubdahhane.github.io/CashPlus-Auth-UI/).
 
 ---
 
