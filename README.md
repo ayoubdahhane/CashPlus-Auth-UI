@@ -17,6 +17,11 @@ Built using **HTML, CSS, and JavaScript**, this front-end project is designed fo
 
 ---
 
+## Live Demo
+Check out the live demo here: [Mercedes-Benz MA Replica](https://ayoubdahhane.github.io/Mercedes-Benz-ma/)
+
+---
+
 ## 📜 License
 This project is licensed under **CC BY-NC 4.0 (Creative Commons Attribution-NonCommercial 4.0 International License).**
 
