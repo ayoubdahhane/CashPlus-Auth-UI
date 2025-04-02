@@ -10,6 +10,18 @@ Built using **HTML, CSS, and JavaScript**, this front-end project is designed fo
 
 ---
 
+## 🚀 Features
+- Original UI/UX design.
+- Clean and responsive HTML, CSS, and JavaScript code.
+- Ideal for educational and learning purposes.
+
+---
+
+## Live Demo
+Check out the live demo [here](https://ayoubdahhane.github.io/CashPlus-Auth-UI/).
+
+---
+
 ## 📜 License
 This project is licensed under **CC BY-NC 4.0 (Creative Commons Attribution-NonCommercial 4.0 International License).**
 
