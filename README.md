@@ -39,10 +39,10 @@ For commercial use or purchase inquiries, please contact me.
 ---
 
 ## 🔹 Want to Buy the Full Version?
-This project is available for **purchase** if Cash Plus is interested.
+This project is available for **purchase** if Cash Plus is interested. 
 
-📧 Contact me: [business.dahhane@gmail.com]  
-🔗 GitHub Profile: [https://github.com/ayoubdahhane]
+📧 Contact me: [business.dahhane@gmail.com](mailto:business.dahhane@gmail.com)  
+🔗 GitHub Profile: [Ayoub DAHHANE](https://github.com/ayoubdahhane)
 
 ---
 
